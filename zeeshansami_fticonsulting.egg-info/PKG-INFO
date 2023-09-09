@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: zeeshansami-fticonsulting
+Version: 0.1
+Requires-Dist: plotly
+Requires-Dist: pandas
